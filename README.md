@@ -6,7 +6,7 @@
   
 💻 Web & Mobile Developer: **ReactJS & React Native**
   
-👨‍💻 Currently employed at: **New Default AB**
+👨‍💻 Currently employed at: **Försäkringskassan IT**
   
 🌱 Long term focus area to grow within: **React Native**
   
